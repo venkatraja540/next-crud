@@ -2,7 +2,7 @@ name: CD Pipeline to Google Cloud Run (staging and production)
 on:
   push:
     branches:
-      - staging
+      - main
   workflow_dispatch: {}
   release:
     types: published
