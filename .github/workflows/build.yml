@@ -1,4 +1,4 @@
-name: ci-next
+name: ci-next-with-docker
 
 on:
   push:
